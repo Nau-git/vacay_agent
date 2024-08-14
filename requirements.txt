@@ -1,0 +1,8 @@
+chainlit
+langgraph
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-openai
+tavily-python
+pandas
+python-dotenv
