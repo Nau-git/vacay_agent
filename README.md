@@ -1,5 +1,3 @@
-Here's a concise README for the repository:
-
 # Vacation Agent
 
 A vacation planning assistant built with the power of generative AI. It helps users plan their vacations by providing personalized recommendations, searching for flights and hotels, and even generating images of destinations.
